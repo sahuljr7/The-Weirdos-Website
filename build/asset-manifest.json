@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f616a840.css",
+    "main.js": "/static/js/main.26a96197.js",
+    "static/media/HomeVideo.mp4": "/static/media/HomeVideo.d4bf2265b2f4a01a1582.mp4",
+    "static/media/akaya-telivigala-all-400-normal.woff": "/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
+    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
+    "static/media/bighead-1.svg": "/static/media/bighead-1.f64b34fdf58b191b0167968db801f681.svg",
+    "static/media/akaya-telivigala-latin-400-normal.woff2": "/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/bighead.svg": "/static/media/bighead.d15521cfa238cb3c9d2b60c29e7f3f7e.svg",
+    "static/media/bighead-3.svg": "/static/media/bighead-3.ee360106bab5dce5e9d68a2a0ea516ad.svg",
+    "static/media/bighead-9.svg": "/static/media/bighead-9.692c03806a4243f3268ae6a1b609da5c.svg",
+    "static/media/bighead-6.svg": "/static/media/bighead-6.9b137ad1d3ff9e4f48ddc8d8e2529b77.svg",
+    "static/media/bighead-7.svg": "/static/media/bighead-7.a86295610ee963f5d6184a106b3dafb4.svg",
+    "static/media/bighead-4.svg": "/static/media/bighead-4.70326ba87ed2c99777c9f658ac927f9c.svg",
+    "static/media/bighead-8.svg": "/static/media/bighead-8.a80df18a491b8829b8c195698e6ac39f.svg",
+    "static/media/sora-all-400-normal.woff": "/static/media/sora-all-400-normal.fc2a204a844d60c30272.woff",
+    "static/media/bighead-2.svg": "/static/media/bighead-2.531bee23abb8a4fd0a516a9a9d50bcaf.svg",
+    "static/media/bighead-5.svg": "/static/media/bighead-5.95b9953042de5fd68dc5dc0558e207d0.svg",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
+    "static/media/sora-latin-400-normal.woff2": "/static/media/sora-latin-400-normal.7055d291e674243dedf8.woff2",
+    "static/media/sora-latin-ext-400-normal.woff2": "/static/media/sora-latin-ext-400-normal.101a61e4b152678c5ec1.woff2",
+    "static/media/Arrow.svg": "/static/media/Arrow.2aa046cef6c722596b055a335b4a9792.svg",
+    "index.html": "/index.html",
+    "main.f616a840.css.map": "/static/css/main.f616a840.css.map",
+    "main.26a96197.js.map": "/static/js/main.26a96197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f616a840.css",
+    "static/js/main.26a96197.js"
+  ]
+}
